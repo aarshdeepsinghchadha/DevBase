@@ -1,4 +1,4 @@
-﻿namespace DevBase.SchemaBuilder
+﻿namespace DevBase.Entity
 {
     public class Class1
     {
