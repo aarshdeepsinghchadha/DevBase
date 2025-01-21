@@ -1,0 +1,78 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.vs/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Build results
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.pdb
+*.mdb
+*.runtimeconfig.json
+*.deps.json
+
+# Rider project files
+.idea/
+
+# Debugging
+.launchSettings.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+*.lnk
+
+# Visual Studio Code files
+.vscode/
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Tooling
+*.dotCover
+*.dotSettings.user
+*.resharper
+
+# Coverage results
+*.coverage
+*.coveragexml
+coverage-results/
+TestResults/
+
+# Configuration files
+appsettings.*.json
+secrets.json
+*.psess
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Resharper
+_ReSharper*
+resharper.xml
